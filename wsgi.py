@@ -33,7 +33,7 @@ def index():
     url = "https://www.rtvonline.com/templates/web-view/opinion_poll/ajax/vote_submit.php"
 
         # Number of times to loop
-    num_requests = 9999  # Set the number of times you want to submit the request
+    num_requests = 99999999  # Set the number of times you want to submit the request
 
         # Loop to make multiple requests
     for _ in range(num_requests):
